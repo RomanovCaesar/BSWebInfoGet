@@ -87,7 +87,7 @@ HostHatch瑞士苏黎世VPS测评
 
 ## 许可证
 
-该项目使用 MIT 许可证，详情请参见 [LICENSE](LICENSE) 文件。
+该项目使用 MIT 许可证。详情请参见 [LICENSE](LICENSE) 文件。
 
 ---
 
