@@ -1,0 +1,118 @@
+网页标题: HostHatch瑞士苏黎世VPS测评 – Caesar小站
+
+网页所有文字内容:
+HostHatch瑞士苏黎世VPS测评 – Caesar小站
+Caesar小站
+HostHatch瑞士苏黎世VPS测评
+4 月 1, 2024
+—
+作者:
+Caesar_311
+分類:
+VPS测评
+提醒：
+HostHatch
+的网站有反欺诈系统，会检测客户的网络环境是否具有欺诈可能。如果您是中国大陆客户，想购买这家VPS，请务必关掉一切梯子，再注册购买，并且注册信息请填写中国大陆地址（可以不真实，格式建议用翻译软件翻译成英文格式）与+86手机号，防止被取消订单！
+今天Caesar来给大家测试下
+HostHatch
+家
+瑞士
+苏黎世机房的VPS的性能。Caesar小站之前就是建在这个商家的苏黎世机房的2核4G的VPS上的（现已迁移到该商家的新加坡vps上），那么它的性能如何呢？
+系统配置：
+磁盘IO和CPU跑分：
+IPv4和IPv6的流媒体解锁情况：
+北京电信回程路由：
+上海电信：
+深圳电信：
+北京联通：
+上海联通：
+深圳联通：
+北京移动：
+上海移动：
+深圳移动：
+成都教育网：
+基本都是从瑞士苏黎世去德国法兰克福，然后从各大运营商在法兰克福的节点直接回国，成都校园网会从德国到香港绕北京、西安去成都，都是比较普通的线路。
+VPS网络测速：
+不知道是几G口，但这网络给的口子确实挺大的。
+国内三网测速：
+各网络各地区差异比较大。
+晚高峰三网测速：
+广州联通下载存放在VPS上的文件：
+晚高峰（晚上十一点），同样是广州联通（这速度真慢，但我建站也不讲究那么多了）：
+但是用我手机上的广州移动下载，速度要快得多：
+晚高峰（晚上0:36），广州移动：
+这广州移动居然比联通快这么多！
+若想购买HostHatch家的vps，
+点我
+注册后选购。此链接中带有我的aff，您通过我的邀请链接注册购买后我会获得少许返现。如果您介意的话，可在网站中选择取消aff。目前最低配的VPS配置为1核AMD EPYC Milan 2G内存 10G存储 1T流量，月付$4非常划算。
+HostHatch
+VPS
+瑞士
+留言
+發佈留言
+取消回覆
+發佈留言必須填寫的電子郵件地址不會公開。
+必填欄位標示為
+*
+留言
+*
+顯示名稱
+*
+電子郵件地址
+*
+個人網站網址
+在
+瀏覽器
+中儲存顯示名稱、電子郵件地址及個人網站網址，以供下次發佈留言時使用。
+←
+上一篇:
+高等数学积分: 分部积分法
+下一篇:
+电报bot测试
+→
+Caesar小站
+Caesar随手涂鸦之地
+关于
+Sonda de Caesar
+Caesar Drive
+Caesar Gemini Pro
+隐私
+Privacy Policy
+Terms and Conditions
+Contact Us
+社交
+Telegram
+Instagram
+Twitter/X
+本站採用
+WordPress
+設計
+
+网页所有链接:
+1.  - https://caesaugu.com/
+2. Caesar小站 - https://caesaugu.com
+3. 4 月 1, 2024 - https://caesaugu.com/hosthatch%e7%91%9e%e5%a3%ab%e8%8b%8f%e9%bb%8e%e4%b8%96vps%e6%b5%8b%e8%af%84/
+4. Caesar_311 - https://caesaugu.com/author/caesar_311/
+5. VPS测评 - https://caesaugu.com/category/vps-evaluation/
+6. HostHatch - https://cloud.hosthatch.com/a/4030
+7. HostHatch - https://caesaugu.com/?tag=hosthatch
+8. 瑞士 - https://caesaugu.com/?tag=%e7%91%9e%e5%a3%ab
+9. 点我 - https://cloud.hosthatch.com/a/4030
+10. HostHatch - https://caesaugu.com/tag/hosthatch/
+11. VPS - https://caesaugu.com/tag/vps/
+12. 瑞士 - https://caesaugu.com/tag/%e7%91%9e%e5%a3%ab/
+13. 取消回覆 - /hosthatch%E7%91%9E%E5%A3%AB%E8%8B%8F%E9%BB%8E%E4%B8%96vps%E6%B5%8B%E8%AF%84/#respond
+14. 上一篇:高等数学积分: 分部积分法 - https://caesaugu.com/%e9%ab%98%e7%ad%89%e6%95%b0%e5%ad%a6%e7%a7%af%e5%88%86-%e5%88%86%e9%83%a8%e7%a7%af%e5%88%86%e6%b3%95/
+15. 下一篇:电报bot测试 - https://caesaugu.com/%e7%94%b5%e6%8a%a5bot%e6%b5%8b%e8%af%95/
+16.  - https://caesaugu.com/
+17. Caesar小站 - https://caesaugu.com
+18. Sonda de Caesar - https://caesaugu.us.kg
+19. Caesar Drive - https://drive.caesaugu.com
+20. Caesar Gemini Pro - https://geminipro.caesaugu.com
+21. Privacy Policy - https://caesaugu.com/privacy-policy/
+22. Terms and Conditions - https://caesaugu.com/terms-and-conditions/
+23. Contact Us - /cdn-cgi/l/email-protection#caafa3a6bfa1a3a4adfbfb8aada7aba3a6e4a9a5a7f5b9bfa8a0afa9bef789abafb9abb8ef8fffef88faeff28cef8ffdef8b88eff3f3ef8ff2ef8bf2ef8b8bef8fffef8b8fef8bf8ef8ffeef888feff2fcef8ffeef888cef8bfb
+24. Telegram - https://t.me/+RGz_PSqj_KsyNTE1
+25. Instagram - https://www.instagram.com/caesareiluk8/
+26. Twitter/X - https://twitter.com/CaesarRomanov
+27. WordPress - https://wordpress.org
